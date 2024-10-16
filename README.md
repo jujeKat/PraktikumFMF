@@ -1,2 +1,1 @@
-# PraktikumFMF
-Repozitorij za FMF Računalniški Praktikum
+# Računalniški praktikum
